@@ -1,7 +1,8 @@
 # สลับค่าในตัวแปร
 
-a = 5
-b = 7
+
+a = float(input("Input variable A : "))
+b = float(input("Input variabel B : "))
 # Display Original Values of 2 Variables
 print("----- Befor swap process -----")
 print("A -> ",a)
