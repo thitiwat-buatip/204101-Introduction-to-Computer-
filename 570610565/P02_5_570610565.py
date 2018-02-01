@@ -1,6 +1,6 @@
 #570610565 Thitiwat Buatip
 
-input_millisec = int(input('Input number ofmilliseconds: '))
+input_millisec = int(input('Input number of milliseconds: '))
 
 millisec = input_millisec%1000
 

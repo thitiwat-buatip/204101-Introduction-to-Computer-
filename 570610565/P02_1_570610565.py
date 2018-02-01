@@ -5,4 +5,4 @@ print(temp)
 
 celsius = (temp - 32)/9*5
 
-print(temp , "Fahrenheit = " , round(celsius , 2) , "Celsius")
+print("%.2f"%temp , "Fahrenheit = " , "%.2f"%celsius , "Celsius")
