@@ -1,4 +1,4 @@
-#570610565 Thitiwat Buatip
+# 570610565 Thitiwat buatip Lab 02 ข้อ 3
 #BMIProgram
 
 weight = float(input("Input weight in kg: "))

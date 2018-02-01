@@ -1,4 +1,4 @@
-# 570610565 Thitiwat buatip
+# 570610565 Thitiwat buatip Lab 02 ข้อ1
 temp = float(input("Input temperature in Fahrenheit: "))
 
 print(temp)

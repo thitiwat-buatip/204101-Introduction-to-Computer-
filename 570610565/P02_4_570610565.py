@@ -1,3 +1,4 @@
+# 570610565 Thitiwat buatip Lab 02 ข้อ 4
 print("First Equation")
 
 m1 = float(input("Input m1: "))
@@ -15,4 +16,4 @@ x = -temp_b/1
 
 y = m1*x + b1
 
-print('The point of intersection is at x =', x, 'and y =', y)
+print('The point of intersection is at x =', "%.2f"%x, 'and y =', "%.2f"%y)
